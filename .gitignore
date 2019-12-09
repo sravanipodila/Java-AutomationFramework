@@ -1,0 +1,9 @@
+target/
+*.iws
+.idea/libraries
+.idea/tasks.xml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/workspace.xml
+.DS_Store
+#fr
